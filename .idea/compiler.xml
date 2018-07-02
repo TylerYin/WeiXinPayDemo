@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="test-weixinpay-project" />
+        <module name="WeiXinPayDemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="test-weixinpay-project" target="1.7" />
+      <module name="WeiXinPayDemo" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

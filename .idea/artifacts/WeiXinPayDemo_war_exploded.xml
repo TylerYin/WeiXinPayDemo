@@ -1,5 +1,5 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="test-weixinpay-project:war exploded">
+  <artifact type="exploded-war" name="WeiXinPayDemo:war exploded">
     <output-path>$PROJECT_DIR$/target/test-weixinpay-project-1.0.0</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
